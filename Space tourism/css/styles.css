@@ -37,12 +37,14 @@ section{
     margin: 0 auto;
     
     max-width: 100%;
+
+    position: relative;
+    left: 200px;
+    display: inline-block;
   }
 
 div {
-    
     background-color: #d8898934;
- 
 }
 
 
@@ -50,10 +52,11 @@ div {
 .section-one {
     height: 24rem;
     width: 40%;
+
 }
 
 .div-one{
-    height: 20rem;
+    height: 22rem;
 }
 
 .section-two {
