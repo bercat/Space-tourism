@@ -47,16 +47,23 @@ div {
     background-color: #d8898934;
 }
 
+hr{
+    height: 2px;
+    background-color: #f2f2f2;
+}
 
 
 .section-one {
-    height: 24rem;
+    height: 44rem;
     width: 40%;
 
 }
 
 .div-one{
     height: 22rem;
+
+    position: relative;
+    top: 200px;
 }
 
 .section-two {
