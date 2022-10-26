@@ -39,7 +39,7 @@ section{
     max-width: 100%;
 
     position: relative;
-    left: 200px;
+    left: 199px;
     display: inline-block;
   }
 
@@ -61,7 +61,8 @@ div {
 
 .section-two {
     height: 3rem;
-    width: 40%;
+    width: 20%;
+    margin-left: 240px;
 }
 
 .div-two{
